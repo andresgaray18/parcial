@@ -1,0 +1,62 @@
+#encabezado{
+    
+    
+}
+.flexContenedor {
+    display: flex;
+}
+
+.divIzquierda {
+    width: 40%;
+    
+    
+    
+    
+}
+.divIzquierda_1{
+    width: 30%;
+}
+.divIzquirdo_2{
+    width: 30%;
+
+}
+.diIzquierda_3{
+    width: 30%;
+}
+.divDerecha {
+    width: 20%;
+   
+    
+    
+}
+.divDerecha_1{
+    width: 15%;
+    
+    
+
+}
+
+.divDerecha_2{
+    width: 15%;
+    
+    
+
+}
+.divDerecha_3{
+    width: 30%;
+
+}
+
+.border {
+    border: 2;
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color:blue;
+    
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+
